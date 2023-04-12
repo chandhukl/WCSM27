@@ -7,6 +7,6 @@ public class Demo {
 	@Test
 	
 	public void demo() {
-		System.out.println("github_demo");
+		System.out.println();
 	}
 }
